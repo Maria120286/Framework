@@ -1,0 +1,8 @@
+Create a new PyCharm project. Make sure it has a virtualenv. Install all the following packages from PYPI:
+behave
+behave-html-formatter
+requests
+selenium
+webdriver-manager
+Use pip to create a `requirements.txt` file. 
+Create a main.py file and add the following lines to ensure that all packages are installed correctly:
